@@ -1,0 +1,8 @@
+{
+  "name": "thanhtest1",
+  "app_id": "4abe4d03",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
